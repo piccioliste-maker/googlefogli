@@ -1,4 +1,4 @@
-## 🎯 Cosa troverai in questo spazio
+## 🎯 Google Fogli Academy
 
 Benvenuto nel portale didattico dedicato ai fogli di calcolo. Tutti i materiali sono organizzati per livello e pronti per essere consultati o scaricati.
 

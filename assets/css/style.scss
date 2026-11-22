@@ -6,3 +6,15 @@
 .page-header .btn {
   display: none;
 }
+
+.page-header::before {
+  content: "";
+  display: block;
+  width: 110px;
+  height: 110px;
+  margin: 0 auto 15px auto;
+  background-image: url("{{ '/logo.png' | relative_url }}");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
